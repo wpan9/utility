@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=FreshDark
+Type=X-GNOME-Metatheme
+Comment=Darker and original version of the Fresh Gnome Theme\nby Henrique Alves <hcarvalhoalves@gmail.com>\n\nhttp://hcalves.deviantart.com/
+
+[X-GNOME-Metatheme]
+GtkTheme=FreshDark
+MetacityTheme=FreshDark
+IconTheme=gnome-brave
+GtkColorScheme=fg_color:#333,bg_color:#dedede,base_color:#fff,text_color:#1A1A1A,selected_bg_color:#61758d,selected_fg_color:#f2f9ff,tooltip_bg_color:#fff4c8,tooltip_fg_color:#000
+CursorTheme=Vanilla-DMZ-AA
+CursorSize=24
